@@ -13,6 +13,7 @@
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafael-lua" height="30" width="40" src="https://icomoon.io/icons4acad3d/4/466.svg">
+  <img align="center" alt="Rafael-typescript" height="30" width="40" src="https://icomoon.io/icons4acad3d/4/832.svg">
 </div>
 
 ##
